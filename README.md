@@ -26,6 +26,6 @@ The application is structured around vanilla JavaScript with major functions han
 + getQuotes(): Fetches quotes from the API and initializes the quote display.
 + tweetQuote(): Constructs a URL for tweeting the current quote and opens it in a new tab.
 
+![image](https://github.com/chavez62/QuoteGen/assets/67764701/1b302ebc-5a95-44c0-9faf-88c77f4fab4d)
 
-![Uploading image.png…]()
 
