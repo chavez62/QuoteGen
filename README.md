@@ -27,4 +27,5 @@ The application is structured around vanilla JavaScript with major functions han
 + tweetQuote(): Constructs a URL for tweeting the current quote and opens it in a new tab.
 
 
-![image](https://github.com/chavez62/QuoteGen/assets/67764701/2e4771b6-1dbd-448e-8560-325da8ef8464)
+![Uploading image.png…]()
+
